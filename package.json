@@ -8,7 +8,7 @@
     "build": "rm -r ./build && tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ismael Messa",
+  "author": "Amschel",
   "license": "ISC",
   "devDependencies": {
     "@types/cors": "^2.8.12",
